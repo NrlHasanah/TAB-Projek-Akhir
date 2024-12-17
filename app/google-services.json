@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588694957482",
+    "project_id": "fir-auth-89ba0",
+    "storage_bucket": "fir-auth-89ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588694957482:android:aa536932256174c1c60fd3",
+        "android_client_info": {
+          "package_name": "com.example.bismillah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kpXQzDMPcAUt6_OMJPT7HLoH-qoPyp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:padding="8dp"
+    android:gravity="center">
+
+    <!-- Gambar IMTRobot -->
+    <ImageView
+        android:id="@+id/image_imtrobot"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/imtrobot"
+        android:contentDescription="IMT Robot"
+        android:adjustViewBounds="true"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Tombol -->
+    <Button
+        android:id="@+id/button_open_calculator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buka Kalkulator Gizi"
+        android:background="@color/light_yellow"
+        android:textColor="@color/black" />
+</LinearLayout>
